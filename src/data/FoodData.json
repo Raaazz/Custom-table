@@ -1,0 +1,226 @@
+{
+  "success": true,
+  "data": [
+    {
+      "_id": "66ddb4260255371ac36b3a29",
+      "name": "Chicken Breast",
+      "description": "Fresh chicken breast, boneless and skinless.",
+      "price": 9.99,
+      "discountedPrice": 8.99,
+      "quantity": 50,
+      "image": [
+        {
+          "_id": "66de8ab27cce741f9abcc11d",
+          "name": "cec496496ac-Chicken.jpeg",
+          "url": "https://res.cloudinary.com/dkzskjjwp/image/upload/v1725860530/ajybxwcrphasnday6z7a.jpg",
+          "size": 73078,
+          "type": "image/jpeg",
+          "fileId": "ajybxwcrphasnday6z7a",
+          "createdAt": "2024-09-09T05:42:10.936Z",
+          "__v": 0
+        },
+        {
+          "_id": "66de8ab27cce741f9abcc11ddddd",
+          "name": "cec496496ac-Chicken.jpeg",
+          "url": "https://res.cloudinary.com/dkzskjjwp/image/upload/v1725860530/ajybxwcrphasnday6z7jijia.jpg",
+          "size": 73078,
+          "type": "image/jpeg",
+          "fileId": "ajybxwcrphasnday6z7a",
+          "createdAt": "2024-09-09T05:42:10.936Z",
+          "__v": 0
+        }
+      ],
+      "category": {
+        "_id": "66ddb44e727807af6141cfb1",
+        "name": "Chicken",
+        "image": "tsa9oectun03rps3geo9",
+        "__v": 0
+      }
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a2a",
+      "name": "Chicken Thighs",
+      "description": "Juicy chicken thighs, perfect for grilling.",
+      "price": 8.99,
+      "discountedPrice": 7.49,
+      "quantity": 30,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a2b",
+      "name": "Mutton Chops",
+      "description": "Tender mutton chops, ideal for slow cooking.",
+      "price": 15.99,
+      "discountedPrice": 14.99,
+      "quantity": 20,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a2c",
+      "name": "Mutton Curry",
+      "description": "Spiced mutton curry, ready to cook.",
+      "price": 12.99,
+      "quantity": 25,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a2d",
+      "name": "Buff Steak",
+      "description": "High-quality buff steak, great for grilling.",
+      "price": 13.99,
+      "discountedPrice": 12.49,
+      "quantity": 15,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a2e",
+      "name": "Buff Mince",
+      "description": "Ground buff meat, perfect for burgers or sauces.",
+      "price": 10.99,
+      "quantity": 40,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a2f",
+      "name": "Pork Ribs",
+      "description": "Delicious pork ribs, marinated and ready to cook.",
+      "price": 14.99,
+      "discountedPrice": 13.49,
+      "quantity": 10,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a30",
+      "name": "Pork Sausages",
+      "description": "Savory pork sausages, great for grilling.",
+      "price": 11.99,
+      "quantity": 60,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a31",
+      "name": "Salmon Fillet",
+      "description": "Fresh salmon fillet, rich in flavor and nutrients.",
+      "price": 16.99,
+      "discountedPrice": 15.49,
+      "quantity": 25,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a32",
+      "name": "Tuna Steak",
+      "description": "High-quality tuna steak, perfect for searing.",
+      "price": 18.99,
+      "quantity": 20,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a33",
+      "name": "Shrimp Cocktail",
+      "description": "Chilled shrimp cocktail, served with a tangy sauce.",
+      "price": 19.99,
+      "quantity": 15,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a34",
+      "name": "Lobster Tail",
+      "description": "Succulent lobster tail, ideal for special occasions.",
+      "price": 29.99,
+      "quantity": 10,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a35",
+      "name": "Broccoli",
+      "description": "Fresh broccoli, perfect for steaming or stir-frying.",
+      "price": 2.99,
+      "quantity": 100,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a36",
+      "name": "Carrots",
+      "description": "Crunchy carrots, great for snacks or cooking.",
+      "price": 1.99,
+      "quantity": 150,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a37",
+      "name": "Apples",
+      "description": "Juicy apples, perfect for snacking or baking.",
+      "price": 3.49,
+      "quantity": 200,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a38",
+      "name": "Bananas",
+      "description": "Ripe bananas, a great source of potassium.",
+      "price": 2.49,
+      "quantity": 180,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a39",
+      "name": "Grapes",
+      "description": "Sweet grapes, ideal for snacks or salads.",
+      "price": 4.99,
+      "quantity": 120,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a3a",
+      "name": "Bell Peppers",
+      "description": "Colorful bell peppers, great for cooking or salads.",
+      "price": 2.49,
+      "quantity": 80,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a3b",
+      "name": "Pineapple",
+      "description": "Sweet pineapple, perfect for desserts or smoothies.",
+      "price": 5.99,
+      "quantity": 50,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a3c",
+      "name": "Cod Fillet",
+      "description": "Mild cod fillet, great for grilling or baking.",
+      "price": 14.49,
+      "quantity": 30,
+      "image": [],
+      "category": null
+    },
+    {
+      "_id": "66ddb4260255371ac36b3a3d",
+      "name": "Crab Legs",
+      "description": "Delicious crab legs, perfect for a seafood feast.",
+      "price": 25.99,
+      "quantity": 15,
+      "image": [],
+      "category": null
+    }
+  ]
+}
